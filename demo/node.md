@@ -1,0 +1,12 @@
+- recieve mail
+- parse mail attatchment
+- group new content to a csv file
+- 不要強調細節設定
+  - 最後可排成部分可以口述帶過，回頭開調整 show 出的步驟會讓觀者感覺到複雜
+- settings
+  - demo 中強調太多，應該簡單帶過
+- 最後擷取的 dashboard 圖片，右上圓餅圖中間有按鈕提示
+  - 可能需要加入 ESC 移除
+- 不需要一直說 Elasticsearch，就說有另一個資料庫系統可以自動從某個固定資料夾中蒐集 CSV 檔案的內容就好。
+  - 簡單介紹，重點是要說明不同系統之間有自動化的斷層
+    - 要體現出 Emily 有足夠的彈性可以扮演不同系統之間彌補自動化斷層的角色
