@@ -69,6 +69,8 @@
 
 ### _Completely Automation_
 
+- Scheduling of the second skill, so that the whole case does not require human interaction at all.
+
 ### _Time Comsuming_
 
 ### _Any Question?_
@@ -82,3 +84,5 @@
 # **_Other Notes_**
 
 - Do not shake the cursor.
+- Speak in complete sentences, with a firm voice and a steady pace without impatience.
+  - Do not need to entangle the details of the logic is not perfect, or what part of the omission
