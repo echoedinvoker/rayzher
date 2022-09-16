@@ -77,9 +77,12 @@
 
 ## **Continue the possibility of extension**
 
-### _Emily trigger Emily_
+### _Trigger_
 
-### _Other System trigger Emily_
+- Emily to Emily
+- Emily to Other systems
+
+### _Keep Training_
 
 # **_Other Notes_**
 
